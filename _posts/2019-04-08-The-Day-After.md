@@ -4,10 +4,22 @@ title: Rotterdam Marathon - The Day After
 tags: [lchf, endurance, marathon]
 ---
 
-# Achievements
+# Achievements (what went wrong)
+So I completed the Rotterdam Marathon, but it didn go as planned. I identified the following reasons:
+- it was a lot warmer (close to 23 Celcius) than was anticipated.
+- the heat also came a lot quicker than anticipated (almost from the start instead of after 13:00)
+- the course was very crowded (close to 17K people signed up for the marathon and just of 14K started)
+- started in wave 4 
+- the course is very narrow in a lot of places, not easy to overtake
+- started to quick (yep rookie/beginner mistake) with 5:00min/km or faster instead of the 5:12min/km
+- blister on right little tow (more an inconvenience)
+- running shoes became to tight due to swelling of feet (too much water, maybe or just the heat)
+- no hat or cap 
+- overtaking many people cost/takes a lot of energy
+- took an Aleeve (painkiller) on 30KM 
 
 # The Plan
-The idea is to run the Rotterdam Marathon without a large amount of carb. Most the training that I have done was fasted (if the running was in the morning) and with some carbs if it was in the afternoon/evening.
+The idea was to run the Rotterdam Marathon without a large amount of carb. Most the training that I have done was fasted (if the running was in the morning) and with some carbs if it was in the afternoon/evening.
 The goal is to run the marathon:
 - [ ] without stopping
 - [x] without carb loading (no pasta party for me :-))
