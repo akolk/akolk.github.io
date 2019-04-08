@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rotterdam Marathon - The Day After
+title: Rotterdam - The Day After
 tags: [lchf, endurance, marathon]
 ---
 
