@@ -5,7 +5,7 @@ tags: [lchf, endurance, marathon]
 ---
 
 ## Achievements (what went wrong)
-So I completed the Rotterdam Marathon, but it didn go as planned. I identified the following reasons:
+So I completed the [Rotterdam Marathon](https://www.strava.com/activities/2272071331), but it didn go as planned. I identified the following reasons:
 - it was a lot warmer (close to 23 Celcius) than was anticipated.
 - the heat also came a lot quicker than anticipated (almost from the start instead of after 13:00)
 - the course was very crowded (close to 17K people signed up for the marathon and just of 14K started)
