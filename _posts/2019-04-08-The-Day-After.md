@@ -29,7 +29,7 @@ For the next marathon/race:
 - [ ] take Aleeve before the start
 - [ ] UCAN in training for some lond distances or as recovery option
 - [ ] follow the Plewes/Taren LCHF plan 
-![Plewes LCHF plan](../img/plewes-1.jpg)
+![Plewes LCHF plan](../img/Plewes-1.jpg)
 
 ## The Plan
 The idea was to run the Rotterdam Marathon without a large amount of carb. Most the training that I have done was fasted (if the running was in the morning) and with some carbs if it was in the afternoon/evening.
