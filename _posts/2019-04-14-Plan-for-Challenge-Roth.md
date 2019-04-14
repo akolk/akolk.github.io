@@ -9,7 +9,7 @@ This year I will participate again in Challenge Roth (Full Distance Triathlon). 
 
  Total time: 13:52:53
  
-(../img/certificate.jpg)
+![Challenge Roth certificate](../img/certificate.jpg)
 
 ## End Time prediction
 - swim time: 01:05:00
