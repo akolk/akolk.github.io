@@ -31,6 +31,8 @@ For the next marathon/race:
 - [ ] follow the Plewes/Taren LCHF plan 
 ![Plewes LCHF plan](../img/Plewes-1.jpg)
 
+![Plewes what to eat](../img/Plewes-2.jpg)
+
 ## The Plan
 The idea was to run the Rotterdam Marathon without a large amount of carb. Most the training that I have done was fasted (if the running was in the morning) and with some carbs if it was in the afternoon/evening.
 The goal is to run the marathon:
