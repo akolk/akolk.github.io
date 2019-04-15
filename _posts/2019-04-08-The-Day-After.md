@@ -30,7 +30,7 @@ For the next marathon/race:
 - [ ] UCAN in training for some lond distances or as recovery option
 - [ ] follow the Plewes/Taren LCHF plan 
 ![Plewes LCHF plan](../img/Plewes-1.jpg)
-
+- [ ] follow the diet plan from Dan Plewes
 ![Plewes what to eat](../img/Plewes-2.jpg)
 
 ## The Plan
