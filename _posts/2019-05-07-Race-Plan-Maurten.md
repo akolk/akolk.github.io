@@ -36,7 +36,6 @@ avg power(Watts) = energy(kcal) / (duration (hours) x 3.6)
 ```
 
 | Fat | Carbs | Weight | Total |  Run    |   Bike      |
-| g/m |  g/h  |   kg   | kcal  |  km/h   |  Watt/h     |
 |----:|------:|-------:|------:|:-------:|:-----------:|
 | 0.4 |  75   |   75   | 516.0 |   6.7   |    143      |
 | 0.5 |  75   |   75   | 570.0 |   7.5   |    158      |
@@ -68,7 +67,6 @@ The run speed is of the second KM in the run:
 The 
 
 | Uur | Reserve | Fat | Carbs |
-|     |   kcal  | g/h |  g/h  |
 |-----|---------|-----|-------|
 |  0  |   2000  |  -  |   -   |
 |  1  |   1500  | 500 |   -   |
