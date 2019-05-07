@@ -19,7 +19,7 @@ Based on 1.2g/min I will oxidate 72g/h fat for a total energy of 650 kcal. With 
 
 ## Overview of different fat oxidation and carbo intake
 
-The following formula can be used: 
+The following formula can be used (for running): 
 ```
 RunSpeed = (60F + 4C)/W 
 
@@ -28,16 +28,26 @@ C = carbohydrate intake per hour in grams
 W = Weight in Kilograms
 ```
 
+The following formula can be used (for biking):
+```
+energy (kcal) = avg power (Watts) X duration (hours) X 3.6
+
+of 
+
+avg power(Watts) = energy(kcal) / (duration (hours) x 3.6)
+```
+
 | Fat  | Carbs | Weight | Total |Run KM/H | Bike Watt/H |
 |------|-------|--------|-------|---------|-------------|
-| 0.5  |  75   |   75   | 570.0 |   7.5   |    140      |
-| 0.6  |  75   |   75   | 624.0 |   8.3   |    145      |
-| 0.7  |  75   |   75   | 678.0 |   9.0   |    150      |
-| 0.8  |  75   |   75   | 732.0 |   9.8   |    155      |
-| 0.9  |  75   |   75   | 786.0 |  10.5   |    160      |
-| 1.0  |  75   |   75   | 840.0 |  11.2   |    165      |
-| 1.1  |  75   |   75   | 894.0 |  11.9   |    170      |
-| 1.2  |  75   |   75   | 948.0 |  12.6   |    175      |
+| 0.4  |  75   |   75   | 516.0 |   6.7   |    143      |
+| 0.5  |  75   |   75   | 570.0 |   7.5   |    158      |
+| 0.6  |  75   |   75   | 624.0 |   8.3   |    173      |
+| 0.7  |  75   |   75   | 678.0 |   9.0   |    188      |
+| 0.8  |  75   |   75   | 732.0 |   9.8   |    203      |
+| 0.9  |  75   |   75   | 786.0 |  10.5   |    218      |
+| 1.0  |  75   |   75   | 840.0 |  11.2   |    233      |
+| 1.1  |  75   |   75   | 894.0 |  11.9   |    248      |
+| 1.2  |  75   |   75   | 948.0 |  12.6   |    263      |
 
 
 # What is a realistic running speed?
