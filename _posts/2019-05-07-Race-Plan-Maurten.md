@@ -20,13 +20,11 @@ Based on 1.2g/min I will oxidate 72g/h fat for a total energy of 650 kcal. With 
 # What is a realistic running speed?
 This is based on running efficiency/economy. How fast can I go with a low heartrate? Based on my on feeling my running efficiency is low. That is why I am training Maffetone style (hearrate below 135 bpm) for the bike and the run up to race day in Challenge Roth. The idea is to improve my effiency on the bike and the run. I try to bike 5-6 times a week and run 4-5 times a week for at least 1 hour each with on friday a longer day with swim (3800 meters) bike (3-5 hours) and run (2-3 hours).
 
-The run speed is:
+The run speed is of the second KM in the run:
 
-+------+-----+------+---------------------+
 | DATE | BPM | KM/H |                     |
-+------+-----+------+---------------------+
+|------|-----|------|---------------------|
 |      |     |      |                     |
 |      |     |      |                     |
 |      |     |      |                     |
 |      |     |      |                     |
-+------+-----+------+---------------------+
