@@ -17,6 +17,17 @@ Based on 0.8g/min I will oxidate 48g/h fat for a total energy of 408 kcal. With 
 ## 1.2g/min fat oxidation and 75/g carbohyrdates, weight 75kg
 Based on 1.2g/min I will oxidate 72g/h fat for a total energy of 650 kcal. With 75g/h carbohydrates an I will have 300 kcal of energy  for a total of 950 kcal/h. I can run than 950/75 = *12.6km/h*
 
+## Overview of different fat oxidation and carbo intake
+
+The following formula can be used: 
+```
+RunSpeed = (60F + 4C)/W 
+
+F = fat oxidation in gram per minute
+C = carbohydrate intake per hour in grams
+W = Weight in Kilograms
+```
+
 | Fat  | Carbs | Weight | Total |Run KM/H | Bike Watt/H |
 |------|-------|--------|-------|---------|-------------|
 | 0.5  |  75   |   75   | 570.0 |   7.5   |    140      |
