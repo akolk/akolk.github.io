@@ -4,8 +4,6 @@ title: Meal Plan for Challenge Roth
 tags: [random,raceplan,lchf,keto,roth,mealplan]
 ---
 
-# Meal Plan for Challenge Roth
-
 The plan will cover the days leading up to the race and the race day. The goal is to train low and race high (on carbohydrates). For that we need to know how much fat we oxidating per minute (g/minute). 1 gram of fat will give 9 kcal of energy. We will probably burn between 0.5 - 1.5 g/min, depending on the heartrate (the lower the better, the more fat will be oxidated). 
 
 ## 0.5g/min fat oxidation and 50g/h carbohydrates, weight 75kg
