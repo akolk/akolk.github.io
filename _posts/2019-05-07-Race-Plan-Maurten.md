@@ -4,7 +4,7 @@ title: Meal Plan for Challenge Roth
 tags: [random,raceplan,lchf,keto,roth,mealplan]
 ---
 
-The plan will cover the days leading up to the race and the race day. The goal is to train low and race high (on carbohydrates). For that we need to know how much fat we oxidating per minute (g/minute). 1 gram of fat will give 9 kcal of energy. We will probably burn between 0.5 - 1.5 g/min, depending on the heartrate (the lower the better, the more fat will be oxidated). 
+This plan will cover the days leading up to the race and the race day itself. The goal is to train low and race high (on carbohydrates). For that we need to know how much fat we oxidating per minute (g/minute). 1 gram of fat will give 9 kcal of energy. will probably burn between 0.5 - 1.5 g/minute, depending on the heartrate (the lower the better, the more fat will be oxidated). 
 
 ## 0.5g/min fat oxidation and 50g/h carbohydrates, weight 75kg
 Based on 0.5 g/min I will oxidate 30 grams of fat an hour for a total energy of 270 kcal. With 50g of carbohydrates an hour I will have 200 kcal of energy for a total of 470 kcal. With a weight of 75kg I can run 470/75 = *7.2km/h*.
@@ -35,7 +35,8 @@ of
 avg power(Watts) = energy(kcal) / (duration (hours) x 3.6)
 ```
 
-| Fat | Carbs | Weight | Total |Run KM/H | Bike Watt/H |
+| Fat | Carbs | Weight | Total |  Run    |   Bike      |
+| g/m |  g/h  |   kg   | kcal  |  km/h   |  Watt/h     |
 |----:|------:|-------:|------:|:-------:|:-----------:|
 | 0.4 |  75   |   75   | 516.0 |   6.7   |    143      |
 | 0.5 |  75   |   75   | 570.0 |   7.5   |    158      |
@@ -59,3 +60,18 @@ The run speed is of the second KM in the run:
 |      |     |      |                     |
 |      |     |      |                     |
 |      |     |      |                     |
+
+
+
+
+# Energy Distribution
+The 
+
+| Uur | Reserve | Fat | Carbs |
+|     |   kcal  | g/h |  g/h  |
+|-----|---------|-----|-------|
+|  0  |   2000  |  -  |   -   |
+|  1  |   1500  | 500 |   -   |
+|  2  |   
+|  0  | 
+
