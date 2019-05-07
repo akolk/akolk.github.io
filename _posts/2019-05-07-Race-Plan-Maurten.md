@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Meal Plan for Challenge Roth
-tags: [randon,raceplan,lchf,keto,roth]
+tags: [random,raceplan,lchf,keto,roth,mealplan]
 ---
 
 # Meal Plan for Challenge Roth
