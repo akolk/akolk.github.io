@@ -7,6 +7,8 @@ tags: [Running Form]
 2. [Paul Mackinnon](https://www.thebalancedrunner.com.au)
 3. [Lex Anderson Coaching](https://www.facebook.com/lexandersoncoaching/)
 4. [Run Faster by Correcting This One Thing](https://www.youtube.com/watch?v=83UDiMMBJRU)
+5. [Principles of Natural Running](https://www.youtube.com/watch?v=zSIDRHUWlVo)
+
 
 
 My sessions are all on either two surfaces - artificial turf or grass. One of the main advantages to these two surfaces is they magnify the noise of the athletes foot strike and toe off, especially when wet. 
