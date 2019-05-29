@@ -8,6 +8,7 @@ tags: [Running Form]
 3. [Lex Anderson Coaching](https://www.facebook.com/lexandersoncoaching/)
 4. [Run Faster by Correcting This One Thing](https://www.youtube.com/watch?v=83UDiMMBJRU)
 5. [Principles of Natural Running](https://www.youtube.com/watch?v=zSIDRHUWlVo)
+6. [learn how to run properly](https://www.youtube.com/watch?v=KmHdKti34D0)
 
 
 
