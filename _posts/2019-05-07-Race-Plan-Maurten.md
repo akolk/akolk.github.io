@@ -94,36 +94,36 @@ Before the start of the race there will be 2000 kcal in the muscles and the live
 
 Long Distance Triatlon in 10 hrs (72 grams carbs/hour), so how to tweak that to 12 hrs
 
-| Moment             | Intake              | Carbs/gram |
-|--------------------|---------------------|------------|
-| Before Swim        | 1 gel + 200ml water |   25       |
-|       T1           | 1 gel               |   25       |
-| Bike + 10KM        | 1 gel + 200ml water |   25       |
-| Bike + 20KM        | 200ml Maurten 320   |   32       |
-| Bike + 30KM        | 1 gel + 200ml water |   25       |
-| Bike + 40KM        | 200ml Maurten 320   |   32       |
-| Bike + 50KM        | 1 gel + 200ml water |   25       |
-| Bike + 60KM        | 200ml Maurten 320   |   32       |
-| Bike + 70KM        | 1 gel + 200ml water |   25       |
-| Bike + 80KM        | 200ml Maurten 320   |   32       |
-| Bike + 90KM        | 1 gel + 200ml water |   25       |
-| Bike + 100KM       | 200ml Maurten 320   |   32       |
-| Bike + 110KM       | 1 gel + 200ml water |   25       |
-| Bike + 120KM       | 200ml Maurten 320   |   32       |
-| Bike + 130KM       | 1 gel + 200ml water |   25       |
-| Bike + 140KM       | 200ml Maurten 320   |   32       |
-| Bike + 150KM       | 1 gel + 200ml water |   25       |
-| Bike + 160KM       | 200ml Maurten 320   |   32       |
-| Bike + 170KM       | 1 gel + 200ml water |   25       |
-|        T2          | 1 gel               |   25       |
-| Run + 5KM          | 1 gel               |   25       |
-| Run + 10KM         | 200ml Maurten 320   |   32       |
-| Run + 15KM         | 1 gel               |   25       |
-| Run + 20KM         | 200ml Maurten 320   |   32       |
-| Run + 25KM         | 1 gel               |   25       |
-| Run + 30KM         | 200ml Maurten 320   |   32       |
-| Run + 35KM         | 1 gel               |   25       |
-| Run + 40KM         | 200ml Maurten 320   |   32       |
+| Moment             | Intake              | Carbs/gram | Hour |
+|:------------------:|:-------------------:|:----------:|:----:|
+| Before Swim        | 1 gel + 200ml water |   25       |  0
+|       T1           | 1 gel               |   25       |  1
+| Bike + 10KM        | 1 gel + 200ml water |   25       |  1
+| Bike + 20KM        | 200ml Maurten 320   |   32       |  1
+| Bike + 30KM        | 1 gel + 200ml water |   25       |  1
+| Bike + 40KM        | 200ml Maurten 320   |   32       |  2
+| Bike + 50KM        | 1 gel + 200ml water |   25       |  2
+| Bike + 60KM        | 200ml Maurten 320   |   32       |  2
+| Bike + 70KM        | 1 gel + 200ml water |   25       |  3
+| Bike + 80KM        | 200ml Maurten 320   |   32       |  3
+| Bike + 90KM        | 1 gel + 200ml water |   25       |  3
+| Bike + 100KM       | 200ml Maurten 320   |   32       |  4
+| Bike + 110KM       | 1 gel + 200ml water |   25       |  4
+| Bike + 120KM       | 200ml Maurten 320   |   32       |  4
+| Bike + 130KM       | 1 gel + 200ml water |   25       |  5
+| Bike + 140KM       | 200ml Maurten 320   |   32       |  5
+| Bike + 150KM       | 1 gel + 200ml water |   25       |  5
+| Bike + 160KM       | 200ml Maurten 320   |   32       |  6
+| Bike + 170KM       | 1 gel + 200ml water |   25       |  6
+|        T2          | 1 gel               |   25       |  6
+| Run + 5KM          | 1 gel               |   25       |  7
+| Run + 10KM         | 200ml Maurten 320   |   32       |  7
+| Run + 15KM         | 1 gel               |   25       |  8
+| Run + 20KM         | 200ml Maurten 320   |   32       |  8
+| Run + 25KM         | 1 gel               |   25       |  9
+| Run + 30KM         | 200ml Maurten 320   |   32       |  9
+| Run + 35KM         | 1 gel               |   25       | 10
+| Run + 40KM         | 200ml Maurten 320   |   32       | 10
 
 JORDAN RAPP
 Multiple Ironman winner and ITU long-distance world champion
