@@ -60,15 +60,20 @@ The run speed is of the second KM in the run:
 |      |     |      |                     |
 |      |     |      |                     |
 
+The swim speed and heart rate (DF #17):
 
+| DATE   |  AVG BPM  | MAX BPM | kcal |  Tempo/100  |
+|:------:|:---------:|:-------:|:----:|:-----------:|
+|        |           |         |      |             |
+| 29/5   | 146       |   157   | 640  |  1:43       |
 
 
 # Energy Distribution
 Before the start of the race there will be 2000 kcal in the muscles and the liver. In the first hour there will be approx 800-1200 kcal burned by swmimming. This will take 70 minutes and will burn approx 70 grams of fat or 630 kcal. 470 kcal will come from carbs. The bike will take 6.5 hrs and 4550 kcals or 700 kcals/hour. 
 
-| Uur | Reserve | Fat | Carbs |
-|-----|---------|-----|-------|
-|  0  |   2000  |  -  |   -   |
+| Uur | Reserve | Fat | Carbs | kcal   |
+|-----|---------|-----|-------|--------|
+|  0  |   2000  |  -  |   -   | 800    |
 |  1  |   1530  | 630 |  100  |
 |  2  |         | 400 |  300  |
 |  3  |         | 400 |  300  |
