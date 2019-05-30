@@ -51,31 +51,34 @@ avg power(Watts) = energy(kcal) / (duration (hours) x 3.6)
 # What is a realistic running speed?
 This is based on running efficiency/economy. How fast can I go with a low heartrate? Based on my on feeling my running efficiency is low. That is why I am training Maffetone style (hearrate below 135 bpm) for the bike and the run up to race day in Challenge Roth. The idea is to improve my effiency on the bike and the run. I try to bike 5-6 times a week and run 4-5 times a week for at least 1 hour each with on friday a longer day with swim (3800 meters) bike (3-5 hours) and run (2-3 hours). This should also help to improve the fat oxidation.
 
-The run speed is of the second KM in the run:
+The run speed is of the second KM in the run (MAF60, 1KM WU, 60min MAF, 1KM, CD):
 
-| DATE | BPM | KM/H |                     |
-|------|-----|------|---------------------|
-|      |     |      |                     |
-|      |     |      |                     |
-|      |     |      |                     |
-|      |     |      |                     |
+| DATE | BPM | KM/H | PACE | kcal/hr |
+|------|-----|------|------|---------|
+|      |     |      |      |         |
+|      |     |      |      |         |
+|      |     |      |      |         |
+|      |     |      |      |         |  
 
-The swim speed and heart rate (DF #17):
+The swim speed and heart rate (DF #11 (3K)/DF #17 (3.5K)):
 
 | DATE   |  AVG BPM  | MAX BPM | kcal |  Tempo/100  |
 |:------:|:---------:|:-------:|:----:|:-----------:|
-|        |           |         |      |             |
+|  1/3   | 157       |   171   | 653  |  1:42       |
+|  3/4   | 156       |   164   | 1148 |  1:42       |
+| 19/4   | 159       |   171   | 812  |  1:47       |
 | 29/5   | 146       |   157   | 640  |  1:43       |
 
+So run speed is roughly 6 minutes/km and the swim speed 1:45/km and the hearrate will be between 130-140bpm. Bikespeed is more difficult, but should be between 27-32KM/hrs.
 
 # Energy Distribution
 Before the start of the race there will be 2000 kcal in the muscles and the liver. In the first hour there will be approx 800-1200 kcal burned by swmimming. This will take 70 minutes and will burn approx 70 grams of fat or 630 kcal. 470 kcal will come from carbs. The bike will take 6.5 hrs and 4550 kcals or 700 kcals/hour. 
 
 | Uur | Reserve | Fat | Carbs | kcal   |
-|-----|---------|-----|-------|--------|
-|  0  |   2000  |  -  |   -   | 800    |
-|  1  |   1530  | 630 |  100  |
-|  2  |         | 400 |  300  |
+|:---:|:-------:|:---:|:-----:|:------:|
+|  0  |   2000  | 630 |  480  | 1110   |
+|  1  |   1520  | 630 |  120  |        |
+|  2  |         | 400 |  300  |        |
 |  3  |         | 400 |  300  |
 |  4  |         | 400 |  300  |
 |  5  |         | 400 |  300  |
@@ -89,10 +92,7 @@ Before the start of the race there will be 2000 kcal in the muscles and the live
 
 
 
-Hele triatlon in 10 uur
-
-
- 
+Long Distance Triatlon in 10 hrs (72 grams carbs/hour), so how to tweak that to 12 hrs
 
 | Moment             | Intake              | Carbs/gram |
 |--------------------|---------------------|------------|
