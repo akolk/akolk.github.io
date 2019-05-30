@@ -129,6 +129,9 @@ JORDAN RAPP
 Multiple Ironman winner and ITU long-distance world champion
 www.blog.rappstar.com
 
+
+https://www.myprocoach.net/blog/ironman-bike-pace-guide/
+
 There are three things you need to manage on race day – hydration, electrolytes, and calories. In my experience, the order of importance has been, surprisingly: electrolytes, calories and fluid. In racing, if I’m well fuelled with calories and take in some electrolytes, my performance is better, even if – post exercise – I’m a bit short of fluids. This assumes you are adequately hydrated at the outset. The recommended dose has been only 400-600mg of sodium per hour – in my experience, that’s about half what most people seem to find success with. I’ve recommended 1,000mg of sodium (not salt, but sodium chloride) per hour and 750-1l of fluid per hour, though the fluid number seems to vary much more with the atmospheric temperature than the electrolytes. I take in the same amount of electrolytes on a cold day, but less fluid, and on a hot day I’ll take in more fluid.
 I also often use salt capsules before a race and the day before the race for sodium
 loading – taking on extra electrolytes in advance of competition.
