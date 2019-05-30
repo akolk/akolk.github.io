@@ -82,3 +82,40 @@ Before the start of the race there will be 2000 kcal in the muscles and the live
 | 11  |         |     |  300  |
 | 12  |         |     |  300  |
 
+
+
+Hele triatlon in 10 uur
+
+
+ 
+
+| Moment             | Intake              | Carbs/gram |
+|--------------------|---------------------|------------|
+| Before Swim        | 1 gel + 200ml water |   25       |
+|       T1           | 1 gel               |   25       |
+| Bike + 10KM        | 1 gel + 200ml water |   25       |
+| Bike + 20KM        | 200ml Maurten 320   |   32       |
+| Bike + 30KM        | 1 gel + 200ml water |   25       |
+| Bike + 40KM        | 200ml Maurten 320   |   32       |
+| Bike + 50KM        | 1 gel + 200ml water |   25       |
+| Bike + 60KM        | 200ml Maurten 320   |   32       |
+| Bike + 70KM        | 1 gel + 200ml water |   25       |
+| Bike + 80KM        | 200ml Maurten 320   |   32       |
+| Bike + 90KM        | 1 gel + 200ml water |   25       |
+| Bike + 100KM       | 200ml Maurten 320   |   32       |
+| Bike + 110KM       | 1 gel + 200ml water |   25       |
+| Bike + 120KM       | 200ml Maurten 320   |   32       |
+| Bike + 130KM       | 1 gel + 200ml water |   25       |
+| Bike + 140KM       | 200ml Maurten 320   |   32       |
+| Bike + 150KM       | 1 gel + 200ml water |   25       |
+| Bike + 160KM       | 200ml Maurten 320   |   32       |
+| Bike + 170KM       | 1 gel + 200ml water |   25       |
+|        T2          | 1 gel               |   25       |
+| Run + 5KM          | 1 gel               |   25       |
+| Run + 10KM         | 200ml Maurten 320   |   32       |
+| Run + 15KM         | 1 gel               |   25       |
+| Run + 20KM         | 200ml Maurten 320   |   32       |
+| Run + 25KM         | 1 gel               |   25       |
+| Run + 30KM         | 200ml Maurten 320   |   32       |
+| Run + 35KM         | 1 gel               |   25       |
+| Run + 40KM         | 200ml Maurten 320   |   32       |
