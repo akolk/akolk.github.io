@@ -74,11 +74,15 @@ The swim speed and heart rate (DF #11 (3K)/DF #17 (3.5K)):
 
 So run speed is roughly 6 minutes/km and the swim speed 1:45/km and the hearrate will be between 130-140bpm. Bikespeed is more difficult, but should be between 27-32KM/hrs.
 
-| What     |  Pace   | AVG BPM |
-|:--------:|:-------:|:-------:|
-|Swim      |  1:45   |  135    |
-| Bike     |         |  140    |
-| Run      |  6:00   |  140    |
+| What     |  Pace   | AVG BPM |  Total   |
+|:--------:|:-------:|:-------:|:--------:|
+|Swim      |  1:45   |  135    | 1:06:00  |
+| T1       |         |         | 0:08:00  |
+| Bike     |  2:10   |  140    | 6:20:00  |
+| T2       |         |         | 0:07:00  |
+| Run      |  6:00   |  140    | 4:13:00  |
+| Total    |         |         |11:54:00  |   
+
 
 # Energy Distribution
 Before the start of the race there will be 2000 kcal in the muscles and the liver. In the first hour there will be approx 800-1200 kcal burned by swmimming. This will take 70 minutes and will burn approx 70 grams of fat or 630 kcal. 470 kcal will come from carbs. The bike will take 6.5 hrs and 4550 kcals or 700 kcals/hour. 
@@ -88,16 +92,16 @@ Before the start of the race there will be 2000 kcal in the muscles and the live
 |  0  |   2000  | 630 |  480  | 1110   |
 |  1  |   1520  | 630 |  120  |        |
 |  2  |         | 400 |  300  |        |
-|  3  |         | 400 |  300  |
-|  4  |         | 400 |  300  |
-|  5  |         | 400 |  300  |
-|  6  |         | 400 |  300  |
-|  7  |         | 400 |  300  |
-|  8  |         | 400 |  300  |
-|  9  |         | 400 |  300  |
-| 10  |         | 400 |  300  |
-| 11  |         |     |  300  |
-| 12  |         |     |  300  |
+|  3  |         | 400 |  300  |        |
+|  4  |         | 400 |  300  |        |
+|  5  |         | 400 |  300  |        |
+|  6  |         | 400 |  300  |        |
+|  7  |         | 400 |  300  |        |
+|  8  |         | 400 |  300  |        |
+|  9  |         | 400 |  300  |        |
+| 10  |         | 400 |  300  |        |
+| 11  |         |     |  300  |        |
+| 12  |         |     |  300  |        |
 
 
 
