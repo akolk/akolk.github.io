@@ -68,9 +68,7 @@ The swim speed and heart rate (DF #11 (3K)/DF #17 (3.5K)):
 |  3/4   | 156       |   164   | 1148 |  1:42       |
 | 19/4   | 159       |   171   | 812  |  1:47       |
 | 29/5   | 146       |   157   | 640  |  1:43       |
-| 31/5   | 134       |   142   | 489  |  1:46       | 
-
-
+| 31/5   | 134       |   142   | 489  |  1:45       | 
 
 So run speed is roughly 6 minutes/km and the swim speed 1:45/km and the hearrate will be between 130-140bpm. Bikespeed is more difficult, but should be between 27-32KM/hrs.
 
