@@ -10,6 +10,7 @@ tags: [Running Form]
 5. [Principles of Natural Running](https://www.youtube.com/watch?v=zSIDRHUWlVo)
 6. [learn how to run properly](https://www.youtube.com/watch?v=KmHdKti34D0)
 7. [Why Hip Extension is So Important for your running form](https://www.kinetic-revolution.com/running-its-all-in-the-hips/)
+8. [Runners word](https://www.runnersworld.com/advanced/a20847674/its-all-in-the-hips/)
 
 
 
