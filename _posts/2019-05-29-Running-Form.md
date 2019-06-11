@@ -9,6 +9,7 @@ tags: [Running Form]
 4. [Run Faster by Correcting This One Thing](https://www.youtube.com/watch?v=83UDiMMBJRU)
 5. [Principles of Natural Running](https://www.youtube.com/watch?v=zSIDRHUWlVo)
 6. [learn how to run properly](https://www.youtube.com/watch?v=KmHdKti34D0)
+7. [Why Hip Extension is So Important for your running form](https://www.kinetic-revolution.com/running-its-all-in-the-hips/)
 
 
 
@@ -34,3 +35,7 @@ Coupled motion pertains to how and where power is initiated – in other words, 
 3. Hips (pelvis) rotate in the transverse plane
 4. Hip extension (leg extends behind the hips)
 5. Foot pushes off the ground
+
+
+
+https://www.kinetic-revolution.com/running-its-all-in-the-hips/
