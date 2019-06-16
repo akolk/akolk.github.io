@@ -13,6 +13,8 @@ tags: [Running Form]
 8. [Runners word](https://www.runnersworld.com/advanced/a20847674/its-all-in-the-hips/)
 9. [Running Form 6 Tips](https://www.kinetic-revolution.com/running-technique-6-ways-to-improve-efficiency/)
 10. [Running Form tips Runners World](https://www.runnersworld.com/training/a20811603/perfect-running-form/)
+11. [More on running form from Runners World](https://www.runnersworld.com/beginner/a20811257/proper-running-form-0/)
+12. [Chi Running Form](https://www.chirunning.com/blog/10-components-of-good-running-form/)
 
 
 
