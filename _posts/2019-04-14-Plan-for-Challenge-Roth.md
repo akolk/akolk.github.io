@@ -12,12 +12,10 @@ This year I will participate again in Challenge Roth (Full Distance Triathlon). 
 ![Challenge Roth certificate](../img/certificate.jpg)
 
 ## End Time prediction
-- swim time: 01:05:00  (1:43/100m)
+- swim time: 01:05:00  (Pace 1:43/100m)
 -   T1 time: 00:10:00
-- bike time: 06:30:00
--   T2 time: 00:15:00
--  run time: 04:00:00  (Pace 00:05:41/km)
+- bike time: 06:30:00  (Power 140 watt or 27KM/hr)
+-   T2 time: 00:10:00
+-  run time: 04:15:00  (Pace 00:06:05/km)
 
- Total time: 12:00:00
- 
- 
+ Total time: 12:10:00
