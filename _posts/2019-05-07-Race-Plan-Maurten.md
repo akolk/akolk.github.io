@@ -47,6 +47,22 @@ avg power(Watts) = energy(kcal) / (duration (hours) x 3.6)
 | 1.1 |  75   |   75   | 894.0 |  11.9   |    248      |
 | 1.2 |  75   |   75   | 948.0 |  12.6   |    263      |
 
+| Fat | Carbs | Weight | Total |  Run    |   Bike      |
+|----:|------:|-------:|------:|:-------:|:-----------:|
+| 0.4 |  50   |   77   | 416.0 |   5.4   |    115      |
+| 0.5 |  50   |   77   | 470.0 |   6.1   |    130      |
+| 0.6 |  50   |   77   | 524.0 |   6.8   |    145      |
+| 0.7 |  50   |   77   | 578.0 |   7.5   |    160      |
+| 0.8 |  50   |   77   | 632.0 |   8.2   |    175      |
+| 0.9 |  50   |   77   | 686.0 |   8.9   |    190      |
+| 1.0 |  50   |   77   | 740.0 |   9.6   |    205      |
+| 1.1 |  50   |   77   | 794.0 |  10.3   |    220      |
+| 1.2 |  50   |   77   | 848.0 |  11.0   |    235      |
+| 1.3 |  50   |   77   | 902.0 |  11.7   |    250      |
+| 1.4 |  50   |   77   | 956.0 |  12.4   |    265      |
+| 1.5 |  50   |   77   | 1010.0 | 13.1   |    280      |
+
+
 
 # What is a realistic running speed?
 This is based on running efficiency/economy. How fast can I go with a low heartrate? Based on my on feeling my running efficiency is low. That is why I am training Maffetone style (hearrate below 135 bpm) for the bike and the run up to race day in Challenge Roth. The idea is to improve my effiency on the bike and the run. I try to bike 5-6 times a week and run 4-5 times a week for at least 1 hour each with on friday a longer day with swim (3800 meters) bike (3-5 hours) and run (2-3 hours). This should also help to improve the fat oxidation.
@@ -85,10 +101,10 @@ So run speed is roughly 6 minutes/km and the swim speed 1:45/km and the hearrate
 # Energy Distribution
 Before the start of the race there will be 2000 kcal in the muscles and the liver. In the first hour there will be approx 800-1200 kcal burned by swmimming. This will take 70 minutes and will burn approx 70 grams of fat or 630 kcal. 470 kcal will come from carbs. The bike will take 6.5 hrs and 4550 kcals or 700 kcals/hour. 
 
-| Uur | Reserve | Fat | Carbs | kcal   |
+| Uur | Reserve | Fat | CHO Used | CHO Intake   |
 |:---:|:-------:|:---:|:-----:|:------:|
-|  0  |   2000  | 630 |  480  | 1110   |
-|  1  |   1520  | 630 |  120  |        |
+|  0  |   2000  | 630 |  480  | 100    |
+|  1  |   1620  | 630 |  120  |        |
 |  2  |         | 400 |  300  |        |
 |  3  |         | 400 |  300  |        |
 |  4  |         | 400 |  300  |        |
