@@ -6,6 +6,8 @@ tags: [random,raceplan,lchf,keto,roth,mealplan,lessonslearned]
 
 ## End Time prediction
 
+The total time that I realised was pretty close to my predictions:
+
 | What    | Predicted | Got      |
 |---------|-----------|----------|
 |swim time| 01:05:00  | 01:12:46 |
@@ -13,7 +15,7 @@ tags: [random,raceplan,lchf,keto,roth,mealplan,lessonslearned]
 |Bike time| 06:30:00  | 06:37:17 |
 |T2 time  | 00:10:00  | 00:08:44 |
 |Run time | 04:15:00  | 04:05:11 |
-|Tota     | 12:10:00  | 12:15:44 |
+|Totaal   | 12:10:00  | 12:15:44 |
 
 ## Lessons learned (improvements)
 - Wetsuit too small?
