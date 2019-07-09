@@ -6,7 +6,7 @@ tags: [random,raceplan,lchf,keto,roth,mealplan,lessonslearned]
 
 ## End Time prediction
 |         | Predicted | Got      |
-+---------+-----------+----------+
+|---------|-----------|----------|
 |swim time| 01:05:00  | 01:12:46 |
 |T1 time  | 00:10:00  | 00:11:48 |
 |Bike time| 06:30:00  | 06:37:17 |
