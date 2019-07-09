@@ -15,25 +15,25 @@ tags: [random,raceplan,lchf,keto,roth,mealplan,lessonslearned]
 |Tota     | 12:10:00  | 12:15:44 |
 
 ## Lessons learned (improvements)
-Wetsuit too small?
-Area position on bike
-Sun protector apply
-Camelbag during biking
-Base HR too high
-Increase number of carbs during 
-HR for MAF training too high (was 135 and should be 125)
+- Wetsuit too small?
+- Area position on bike
+- Sun protector apply
+- Camelbag during biking
+- Base HR too high
+- Increase number of carbs during 
+- HR for MAF training too high (was 135 and should be 125)
 
 
 ## Lessons learned (what went well)
-electrolyes before and during race
-high fat oxidation (probably) during race
-Bullet coffee in the morning (coffe, mct oil, cream)
-Breakfast (bullet coffee, scrambled eggs with bacon bits, oatmeal + milk + ucan) -> water next time
-Running form/efficiency (run without making noise when the feet land)
-The NOrth Face ultra running shoes (cushioning helped)
-Train according to MAF (even though the MAF HR was 10 too high)
-Increase PVC magnesium intake on daily basis (2 x 2 pills)
-Friday training (basically half ironman)
+- electrolyes before and during race
+- high fat oxidation (probably) during race
+- Bullet coffee in the morning (coffe, mct oil, cream)
+- Breakfast (bullet coffee, scrambled eggs with bacon bits, oatmeal + milk + ucan) -> water next time
+- Running form/efficiency (run without making noise when the feet land)
+- The NOrth Face ultra running shoes (cushioning helped)
+- Train according to MAF (even though the MAF HR was 10 too high)
+- Increase PVC magnesium intake on daily basis (2 x 2 pills)
+- Friday training (basically half ironman)
 
 ## what to do for the next race?
 test fat oxidation (grams)
