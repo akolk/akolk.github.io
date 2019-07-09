@@ -8,23 +8,27 @@ tags: [random,raceplan,lchf,keto,roth,mealplan,lessonslearned]
 
 The total time that I realised was pretty close to my predictions:
 
-| What    | Predicted | Got      |
-|---------|-----------|----------|
-|swim time| 01:05:00  | 01:12:46 |
-|T1 time  | 00:10:00  | 00:11:48 |
-|Bike time| 06:30:00  | 06:37:17 |
-|T2 time  | 00:10:00  | 00:08:44 |
-|Run time | 04:15:00  | 04:05:11 |
-|Totaal   | 12:10:00  | 12:15:44 |
+| What    | Predicted | Got      | Reason
+|---------|-----------|----------|---------------------------|
+|swim time| 01:05:00  | 01:12:46 | (1) (2)                   |
+|T1 time  | 00:10:00  | 00:11:48 | (3)                       | 
+|Bike time| 06:30:00  | 06:37:17 | (4) (5) (6) (7) (8) (9)   |
+|T2 time  | 00:10:00  | 00:08:44 | (10)                      |
+|Run time | 04:15:00  | 04:05:11 | (5) (11)                  |
+|Totaal   | 12:10:00  | 12:15:44 |                           |
 
 ## Lessons learned (improvements)
-- Wetsuit too small?
-- Area position on bike
-- Sun protector apply
-- Camelbag during biking
-- Base HR too high
-- Increase number of carbs during 
-- HR for MAF training too high (was 135 and should be 125)
+1. Wetsuit too small?
+2. Panic attack/claustrofobic during first part of swim (may be because of 1)
+3. Had toilet stop before biking 
+4. Had toilet stops (3x) during biking
+5. Sun protector apply
+6. Camelbag during biking
+7. Didn use the area position until the last 30KM or so (cost +/- +8%)
+8. Base HR too high
+9. Increase number of carbs during biking
+10. Had a toilet stop before running
+11. HR for MAF training too high (was 135 and should be 125)
 
 
 ## Lessons learned (what went well)
