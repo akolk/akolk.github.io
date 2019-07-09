@@ -4,7 +4,15 @@ title: The Day After Challenge Roth
 tags: [random,raceplan,lchf,keto,roth,mealplan,lessonslearned]
 ---
 
-# 
+## End Time prediction
+|         | Predicted | Got      |
++---------+-----------+----------+
+|swim time| 01:05:00  | 01:12:46 |
+|T1 time  | 00:10:00  | 00:11:48 |
+|Bike time| 06:30:00  | 06:37:17 |
+|T2 time  | 00:10:00  | 00:08:44 |
+|Run time | 04:15:00  | 04:05:11 |
+|Tota     | 12:10:00  | 12:15:44 |
 
 ## Lessons learned (improvements)
 Wetsuit too small?
