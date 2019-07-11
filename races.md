@@ -1,5 +1,5 @@
 ---
-layout: pages
+layout: page
 title: Races planned and completed
 tags: [random,races]
 ---
