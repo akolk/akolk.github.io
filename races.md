@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: pages
 title: Races planned and completed
 tags: [random,races]
 ---
