@@ -37,4 +37,14 @@ Pace for those times .....
 
 
 
-##
+# Training Plan
+
+| When | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday | Total |
+|------|--------|---------|-----------|----------|--------|----------|--------|-------|
+|  AM  | Swim   | Bike    | Swim      | Bike     | Swim   | Bike (2) | Bike (2)|  7   |
+|      | Run    |         | Run       |          | Run    | Run (2)  | Run (2)|  6.25 |
+| PM   | Run    | Run     |           |          | Run    |          |        |  2.25 |
+|      | Bike   |         |           | Run      |        |          |        |  2    |
+| Tot  |        |         |           |          |        |          |        | 17.5  |
+
+
