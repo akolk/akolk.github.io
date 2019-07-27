@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Races planned and completed
+title: Plan for Ironcat 2020
 tags: [random,ironcat]
 ---
 
