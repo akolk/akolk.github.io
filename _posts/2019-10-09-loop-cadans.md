@@ -1,3 +1,11 @@
+---
+layout: post
+title: Finding the right (aerobic) training zone
+tags: [random, aerobic, training]
+---
+
+http://loopwijzer.nl/hoe-is-jouw-cadans-word-een-betere-hardloper-go-180/
+
 Hoe is jouw cadans? Go 180
 Hoe is jouw cadans? Word een betere hardloper: go 180
 
